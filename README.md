@@ -134,7 +134,7 @@ plt.ylabel('Errors')
 plt.show()
 ```
 
-### OUTPUT:
+## OUTPUT:
 ### DATASET:
 ![output](op1.png)
 
