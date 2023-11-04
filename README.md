@@ -48,7 +48,7 @@ Plot the error for each iteration.
 ### STEP 12:
 Print the accuracy.
 
-### PROGRAM:
+## PROGRAM:
 ```
 Name : Paarkavy B
 Reg No : 212221230072
