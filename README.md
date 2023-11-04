@@ -148,5 +148,5 @@ plt.show()
 ### ACCURACY:
 ![output](op4.png)
 
-### RESULT:
+## RESULT:
 Thus, a perceptron is implemented for classification using python.
